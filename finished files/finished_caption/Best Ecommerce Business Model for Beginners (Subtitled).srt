@@ -1,0 +1,1008 @@
+1
+00:00:00,170 --> 00:00:03,886
+The traditional retail model is shifting rapidly, and there's a
+
+2
+00:00:03,908 --> 00:00:07,774
+golden opportunity for anyone, yes, anyone, to dive into
+
+3
+00:00:07,812 --> 00:00:11,422
+the world of ecommerce. Young, ordinary people who have
+
+4
+00:00:11,476 --> 00:00:15,482
+zero experience in the world of business, very little startup capital
+
+5
+00:00:15,546 --> 00:00:18,734
+and limited free time, are taking advantage of this
+
+6
+00:00:18,772 --> 00:00:21,710
+opportunity to make thousand, 10,000,
+
+7
+00:00:21,780 --> 00:00:25,062
+and even upwards of a hundred thousand euros every month.
+
+8
+00:00:25,156 --> 00:00:28,422
+So how are they doing this? Well, they are utilizing the business
+
+9
+00:00:28,476 --> 00:00:31,846
+models that I'll be breaking down and comparing in this video.
+
+10
+00:00:31,948 --> 00:00:35,490
+In the end, I'll even show you my stepbystep framework
+
+11
+00:00:35,570 --> 00:00:39,302
+that I've personally used to grow eight brands that collectively have done
+
+12
+00:00:39,356 --> 00:00:42,938
+over €50 million in revenue over the past two and a half years.
+
+13
+00:00:43,024 --> 00:00:46,602
+But before we get into it, I do want to be absolutely
+
+14
+00:00:46,736 --> 00:00:50,554
+transparent with you. If you've clicked this video, it's most likely because
+
+15
+00:00:50,592 --> 00:00:54,334
+you've got a goal of one day running a successful online business.
+
+16
+00:00:54,452 --> 00:00:57,902
+But the honest truth is that 95% of people
+
+17
+00:00:57,956 --> 00:01:01,966
+who start a business, a side hustle or whatever it might be, fail within the
+
+18
+00:01:01,988 --> 00:01:05,718
+first few months. And I cannot guarantee you that you will see the same results
+
+19
+00:01:05,754 --> 00:01:09,650
+that I have. But what I can guarantee you, however, is by watching
+
+20
+00:01:09,720 --> 00:01:13,442
+this video and paying close attention to what I'm about to tell you,
+
+21
+00:01:13,496 --> 00:01:17,294
+you will have taken the first but crucial step towards becoming
+
+22
+00:01:17,342 --> 00:01:20,230
+a part of the 5% that do succeed.
+
+23
+00:01:20,890 --> 00:01:24,338
+In case you've never seen or heard of me, my name is Nicolai
+
+24
+00:01:24,354 --> 00:01:28,034
+Peterson. I've been trying to make money online ever since I was 16
+
+25
+00:01:28,082 --> 00:01:31,754
+years old, and it was only recently that I actually found success
+
+26
+00:01:31,872 --> 00:01:35,434
+through ecommerce. Prior to that, I've personally experienced with a
+
+27
+00:01:35,472 --> 00:01:38,710
+long list of different business models. I've done day trading.
+
+28
+00:01:38,790 --> 00:01:43,002
+I build a SaaS platform, a fashion brand, a printondemand
+
+29
+00:01:43,066 --> 00:01:46,042
+company, and the list goes on. Therefore,
+
+30
+00:01:46,106 --> 00:01:49,870
+I'm speaking from my own experience when I talk about these business
+
+31
+00:01:49,940 --> 00:01:53,834
+models. So, let's get into it. When picking what business model best suits
+
+32
+00:01:53,882 --> 00:01:57,150
+you, there are a few things you need to consider. First and foremost,
+
+33
+00:01:57,230 --> 00:02:00,222
+do you have any specific skills that you can leverage?
+
+34
+00:02:00,366 --> 00:02:03,726
+Maybe you already know how to code a website. Or perhaps
+
+35
+00:02:03,758 --> 00:02:07,286
+you're naturally a sociable person who knows how to sell a
+
+36
+00:02:07,308 --> 00:02:10,902
+product. If you possess any skills, you're already ahead of most
+
+37
+00:02:10,956 --> 00:02:14,258
+people. Next thing to consider is the starting capital.
+
+38
+00:02:14,354 --> 00:02:18,214
+How much money can you realistically invest in the business?
+
+39
+00:02:18,332 --> 00:02:21,506
+You also have to be aware of how many hours you're willing to put into
+
+40
+00:02:21,548 --> 00:02:24,730
+the business to make it work. Now, you can definitely become
+
+41
+00:02:24,800 --> 00:02:27,926
+incredibly wealthy with any of these business models
+
+42
+00:02:27,958 --> 00:02:31,594
+that I'm about to go through, but some of them are way easier to get
+
+43
+00:02:31,632 --> 00:02:35,454
+large profits with than others. Lastly, when you
+
+44
+00:02:35,492 --> 00:02:38,894
+finally got a business up and running, you also want to consider to what
+
+45
+00:02:38,932 --> 00:02:43,178
+degree the operation is able to run without your personal interference.
+
+46
+00:02:43,274 --> 00:02:47,054
+Are you able to make it into passive income? Partly passive perhaps.
+
+47
+00:02:47,102 --> 00:02:50,386
+Or do you need to be there full time, nonstop? With all
+
+48
+00:02:50,408 --> 00:02:54,050
+of these categories in mind, let's now look at some popular online business
+
+49
+00:02:54,120 --> 00:02:58,626
+models. A service based business model leverages your skills to either consult,
+
+50
+00:02:58,738 --> 00:03:02,502
+coach or perform a specific task for your clients. It often
+
+51
+00:03:02,556 --> 00:03:06,594
+takes a higher level of expertise, but luckily the startup costs
+
+52
+00:03:06,642 --> 00:03:10,246
+are minimal or nonexistent as you only really are relying
+
+53
+00:03:10,278 --> 00:03:14,154
+on your own skills to get started. However, that also means that the time
+
+54
+00:03:14,192 --> 00:03:18,166
+you have to invest is quite substantial and the possibility
+
+55
+00:03:18,278 --> 00:03:22,250
+of autonomy is virtually zero. However, because people
+
+56
+00:03:22,320 --> 00:03:25,806
+usually value high quality one on one work,
+
+57
+00:03:25,908 --> 00:03:29,406
+the profit margins tend to be great in this space. Now another
+
+58
+00:03:29,508 --> 00:03:32,542
+very popular recent business model is info products.
+
+59
+00:03:32,676 --> 00:03:36,114
+These are things such as online courses, ebooks and
+
+60
+00:03:36,152 --> 00:03:40,034
+even YouTube videos. In the case of YouTube videos, you can obviously get
+
+61
+00:03:40,072 --> 00:03:43,778
+started without money or any particular skills. But usually
+
+62
+00:03:43,864 --> 00:03:47,922
+info products require a high level of both skills and time
+
+63
+00:03:47,976 --> 00:03:52,242
+investment. I've personally in the past year spent over €50,000
+
+64
+00:03:52,306 --> 00:03:55,414
+developing the best possible info product, but that would be a
+
+65
+00:03:55,452 --> 00:03:59,046
+lot of money for a beginner to put into a product. As for the
+
+66
+00:03:59,068 --> 00:04:03,034
+profitability, the margins are usually very high in info products based
+
+67
+00:04:03,072 --> 00:04:06,938
+business, and that's because you've got virtually no cost of the product.
+
+68
+00:04:07,024 --> 00:04:11,126
+The primary catch here is that you have to spend some money on marketing.
+
+69
+00:04:11,238 --> 00:04:15,102
+Now the possibility of autonomy here depends on what kind of info product
+
+70
+00:04:15,156 --> 00:04:18,282
+you're selling. An ebook can become passive income.
+
+71
+00:04:18,346 --> 00:04:21,406
+While that would be impossible with a YouTube channel,
+
+72
+00:04:21,508 --> 00:04:25,182
+yet another business model that you might have heard of is called affiliate
+
+73
+00:04:25,246 --> 00:04:29,090
+marketing. Now this is where you earn a commission by marketing another
+
+74
+00:04:29,160 --> 00:04:32,546
+company's product. There are few startup costs here in the
+
+75
+00:04:32,568 --> 00:04:35,862
+form of so me ads and building a website.
+
+76
+00:04:35,996 --> 00:04:40,006
+The adventurous thing about affiliate marketing is that the company
+
+77
+00:04:40,108 --> 00:04:43,794
+which product you are selling handles the entire fulfillment
+
+78
+00:04:43,842 --> 00:04:47,714
+side of the process, which obviously lowers the barrier of entry
+
+79
+00:04:47,762 --> 00:04:51,130
+in the form of skills and time needed. But the problem
+
+80
+00:04:51,200 --> 00:04:54,986
+with a lower barrier of entry is that it's usually followed by a
+
+81
+00:04:55,008 --> 00:04:58,858
+lot of competition. Now when it comes to autonomy, the entire
+
+82
+00:04:58,944 --> 00:05:02,762
+process can be mostly automated if you outsource your marketing.
+
+83
+00:05:02,826 --> 00:05:06,430
+Another business model is obviously software, also called
+
+84
+00:05:06,500 --> 00:05:10,542
+SaaS software as a service, and that's a subscription based
+
+85
+00:05:10,596 --> 00:05:14,014
+software that you can access via the Internet. And you already know
+
+86
+00:05:14,052 --> 00:05:18,834
+a bunch of these. These are things like Netflix, Office 365,
+
+87
+00:05:18,952 --> 00:05:22,114
+Zoom perhaps, and so on. The catch here is that these
+
+88
+00:05:22,152 --> 00:05:26,090
+often require a lot of time, money and expertise,
+
+89
+00:05:26,190 --> 00:05:29,062
+and are rarely suited for beginners. They do,
+
+90
+00:05:29,116 --> 00:05:32,934
+however, have the highest profitability and possibility of
+
+91
+00:05:32,972 --> 00:05:36,806
+autonomy. And also, if you want to sell your software business,
+
+92
+00:05:36,908 --> 00:05:40,054
+this is where you'll get the highest possible price for
+
+93
+00:05:40,092 --> 00:05:43,306
+your business. Lastly, we've got ecommerce, which is a bit
+
+94
+00:05:43,328 --> 00:05:46,794
+of a broad categorization, but we'll get into the specifics in
+
+95
+00:05:46,832 --> 00:05:50,022
+just a minute. Now, the type of e commerce that I'll be teaching you
+
+96
+00:05:50,096 --> 00:05:53,742
+does require a fair bit of skill. Sourcing your product
+
+97
+00:05:53,796 --> 00:05:57,626
+through a reputable supplier, negotiating beneficial shipping
+
+98
+00:05:57,658 --> 00:06:01,166
+arrangements, creating a conversion optimized Shopify store,
+
+99
+00:06:01,268 --> 00:06:05,086
+marketing your product on Meta TikTok and etc. In a way that
+
+100
+00:06:05,108 --> 00:06:08,606
+attracts customers. Thankfully for you, these are skills
+
+101
+00:06:08,638 --> 00:06:12,114
+you can acquire right here on YouTube, and I'll even help
+
+102
+00:06:12,152 --> 00:06:15,538
+you get started today. You do need a bit of starting capital to get
+
+103
+00:06:15,544 --> 00:06:18,870
+your product off the ground, though, but nothing major here around
+
+104
+00:06:18,940 --> 00:06:22,742
+€100 should be sufficient. I personally got started with my first
+
+105
+00:06:22,796 --> 00:06:26,054
+and to this day most successful ecommerce brand with
+
+106
+00:06:26,092 --> 00:06:29,798
+exactly €513 on my account,
+
+107
+00:06:29,964 --> 00:06:33,526
+and I launched the brand for around €60.
+
+108
+00:06:33,638 --> 00:06:37,082
+Initially, you'll have to invest time to get your store
+
+109
+00:06:37,216 --> 00:06:40,838
+ads and supplier relationships up and running, but most of
+
+110
+00:06:40,864 --> 00:06:44,714
+these operations can be outsourced quite easily when you've got a sufficient
+
+111
+00:06:44,762 --> 00:06:48,414
+cash flow. But the absolute best thing about ecommerce is
+
+112
+00:06:48,452 --> 00:06:51,914
+nearly the infinite scalability and profitability.
+
+113
+00:06:52,042 --> 00:06:56,002
+And now look, I'm obviously slightly biased towards ecommerce. It's where
+
+114
+00:06:56,056 --> 00:06:59,650
+my personal expertise lies and it's what's made me my
+
+115
+00:06:59,720 --> 00:07:03,010
+money and it's what I teach my students. But the honest
+
+116
+00:07:03,080 --> 00:07:06,766
+truth is that you have to choose a business model that fits your skill
+
+117
+00:07:06,798 --> 00:07:10,902
+set. Your business should be a reflection of who you are as a person,
+
+118
+00:07:11,036 --> 00:07:14,550
+so it's crucial that you choose one that fits your
+
+119
+00:07:14,620 --> 00:07:18,006
+criteria. With that said, it's now finally time to
+
+120
+00:07:18,028 --> 00:07:21,926
+get into my four step ecommerce framework that I've used to grow and scale
+
+121
+00:07:21,958 --> 00:07:25,430
+my brands. To start with, your ecommerce brand
+
+122
+00:07:25,510 --> 00:07:28,986
+as lean as humanly possible. What I always love to
+
+123
+00:07:29,008 --> 00:07:32,830
+do is to start with something called preorders, and using
+
+124
+00:07:32,900 --> 00:07:36,590
+preorders is what I've had success with with all of my
+
+125
+00:07:36,660 --> 00:07:40,286
+brands, over 20 successful Shopify stores. And I know what
+
+126
+00:07:40,308 --> 00:07:43,914
+you're thinking. If it was that easy, wouldn't everyone just do it?
+
+127
+00:07:43,972 --> 00:07:47,490
+The reason why this works is actually because there are so
+
+128
+00:07:47,560 --> 00:07:51,662
+many people trying to take advantage of customers by selling trendy,
+
+129
+00:07:51,726 --> 00:07:55,502
+poor quality products. My whole framework, on the contrary,
+
+130
+00:07:55,566 --> 00:07:59,446
+is built upon providing as much value to the customers
+
+131
+00:07:59,548 --> 00:08:03,126
+as possible. And that's honestly one of my largest personal
+
+132
+00:08:03,228 --> 00:08:07,206
+secrets. So I won't ever teach you how to do dropshipping or
+
+133
+00:08:07,228 --> 00:08:10,282
+scam customers. And this is by no means a get
+
+134
+00:08:10,336 --> 00:08:14,474
+rich quick scheme. I want you to build a legit, stable business that
+
+135
+00:08:14,512 --> 00:08:17,242
+provides actual value to its customers.
+
+136
+00:08:17,376 --> 00:08:20,586
+We simply just use the technique to validate our product and
+
+137
+00:08:20,608 --> 00:08:23,742
+after one to two weeks we switch to a completely in
+
+138
+00:08:23,796 --> 00:08:27,342
+house brand with a three PL and such. So the first
+
+139
+00:08:27,396 --> 00:08:31,310
+step is sourcing a winning product. What I love to do here
+
+140
+00:08:31,380 --> 00:08:34,938
+is to simply look at other successful brands.
+
+141
+00:08:35,034 --> 00:08:39,058
+And I actually like to call this method open your eyes, because so
+
+142
+00:08:39,144 --> 00:08:43,454
+many people out there are obsessed over the best products by software
+
+143
+00:08:43,502 --> 00:08:47,202
+tools. But in reality, you don't need anything else than
+
+144
+00:08:47,256 --> 00:08:50,994
+to open your eyes and to simply become aware of what's performing
+
+145
+00:08:51,042 --> 00:08:54,614
+for other brands. Take a look at what products successful brands are
+
+146
+00:08:54,652 --> 00:08:57,858
+promoting in either your country or in other markets.
+
+147
+00:08:57,954 --> 00:09:01,594
+Personally, I love being aware of what brands in the US or
+
+148
+00:09:01,632 --> 00:09:05,958
+Australia do and then implementing that in Europe or Scandinavia.
+
+149
+00:09:06,054 --> 00:09:09,690
+With that said, a winning product in my eyes has some very
+
+150
+00:09:09,760 --> 00:09:13,214
+specific criteria which yours need to be able to
+
+151
+00:09:13,252 --> 00:09:16,126
+uphold by. Here's the three most important ones.
+
+152
+00:09:16,228 --> 00:09:19,854
+A high AOV and that's average order value. This means
+
+153
+00:09:19,892 --> 00:09:22,810
+that your product should just basically, in my opinion,
+
+154
+00:09:22,890 --> 00:09:26,434
+cost at least €60. The second thing is
+
+155
+00:09:26,472 --> 00:09:30,418
+a high margin. Your sales price for the product should at least
+
+156
+00:09:30,504 --> 00:09:33,618
+be three X your purchase price for the product,
+
+157
+00:09:33,704 --> 00:09:37,538
+preferably more. The third and final thing is a good market,
+
+158
+00:09:37,624 --> 00:09:41,842
+and this is a market without many competitors but still with a significant
+
+159
+00:09:41,906 --> 00:09:45,350
+size. I typically determine this by doing some kind of online
+
+160
+00:09:45,420 --> 00:09:49,730
+research on my product by simply Google searching it and looking for competitors.
+
+161
+00:09:49,810 --> 00:09:53,258
+And if I can't find any, then that's a good sign. It's also completely
+
+162
+00:09:53,344 --> 00:09:56,906
+fine if there are competitors in the market. The most important thing is
+
+163
+00:09:56,928 --> 00:10:00,426
+that you know how to beat them. Setting up your store
+
+164
+00:10:00,528 --> 00:10:04,254
+this is the point where you sign up to Shopify. We've got a discount link
+
+165
+00:10:04,292 --> 00:10:07,994
+below and create your first store. There is a free trial
+
+166
+00:10:08,042 --> 00:10:11,390
+on Shopify, so this is once again completely risk free.
+
+167
+00:10:11,460 --> 00:10:15,006
+So sign up, set up your Shopify store and then you're good to
+
+168
+00:10:15,028 --> 00:10:18,306
+go. If you want a step by step guide on how to set up your
+
+169
+00:10:18,328 --> 00:10:21,922
+Shopify store, be sure to subscribe because I'll have a video coming
+
+170
+00:10:21,976 --> 00:10:25,330
+out about that shortly. Now, once you're making your store,
+
+171
+00:10:25,400 --> 00:10:29,234
+it's crucial to make it as trustworthy as humanly
+
+172
+00:10:29,282 --> 00:10:32,886
+possible. So what I strongly recommend here, if you are a beginner, is to go
+
+173
+00:10:32,908 --> 00:10:37,026
+onto larger, established stores and take a look at how exactly they've
+
+174
+00:10:37,058 --> 00:10:40,902
+built their store and then get inspiration from that. Don't copy,
+
+175
+00:10:40,966 --> 00:10:44,842
+but take inspiration, because chances are they've tested a lot
+
+176
+00:10:44,896 --> 00:10:48,314
+on their site to improve their conversion rate. So by using their
+
+177
+00:10:48,352 --> 00:10:51,790
+learnings and the entire landing page structure, you should be working
+
+178
+00:10:51,860 --> 00:10:55,774
+in the right direction. Creating a brand we
+
+179
+00:10:55,812 --> 00:10:59,866
+want to strongly brand our product once we've seen some serious proof
+
+180
+00:10:59,898 --> 00:11:03,482
+of concept for the product. So initially, when you're creating your brand,
+
+181
+00:11:03,546 --> 00:11:06,882
+do it as lean as possible. And what I mean by that
+
+182
+00:11:06,936 --> 00:11:10,434
+is you shouldn't spend hours making a logo or coming up
+
+183
+00:11:10,472 --> 00:11:13,858
+with a clever name. You can always change and improve that later.
+
+184
+00:11:13,944 --> 00:11:17,970
+So for now, we just want you to focus on testing the product as soon
+
+185
+00:11:18,040 --> 00:11:21,858
+and as lean as possible. With that said, as soon as you found proof
+
+186
+00:11:21,874 --> 00:11:25,526
+of concept with your product, one of the first things you should do is to
+
+187
+00:11:25,548 --> 00:11:29,142
+create brand guidelines. I've got a template for you to download for free
+
+188
+00:11:29,196 --> 00:11:32,474
+down below. By setting up clear brand guidelines quite
+
+189
+00:11:32,512 --> 00:11:36,422
+early, it just makes your brand seems so much more professional
+
+190
+00:11:36,486 --> 00:11:39,866
+compared to your typical dropshipping stores. This is something a
+
+191
+00:11:39,888 --> 00:11:43,518
+lot of beginners fail to do. Once again here, if you're new,
+
+192
+00:11:43,604 --> 00:11:46,794
+take inspiration from your competitors as to how they've
+
+193
+00:11:46,842 --> 00:11:50,014
+positioned their brand. Take a look at the colors they've used,
+
+194
+00:11:50,052 --> 00:11:52,670
+the fonts, the tone of voice and etc.
+
+195
+00:11:53,170 --> 00:11:56,866
+Marketing your product now it's time to test your product.
+
+196
+00:11:56,968 --> 00:12:00,350
+I've always done so on meta through Facebook
+
+197
+00:12:00,430 --> 00:12:04,226
+and Instagram ads. A good rule of thumb that I always use is
+
+198
+00:12:04,248 --> 00:12:08,134
+that you should be able to test whether your product is viable by at most
+
+199
+00:12:08,252 --> 00:12:11,926
+three X the sales price of your product on ads. So if
+
+200
+00:12:11,948 --> 00:12:15,590
+your product is selling at €100, then you should never
+
+201
+00:12:15,660 --> 00:12:19,062
+spend more than €300. Testing your product through
+
+202
+00:12:19,116 --> 00:12:23,322
+ads most times I've tested all my products for around 150
+
+203
+00:12:23,376 --> 00:12:26,570
+to €200, and that's because once you've spent that amount,
+
+204
+00:12:26,640 --> 00:12:30,362
+you should have sufficient data to be able to read and determine whether
+
+205
+00:12:30,416 --> 00:12:34,106
+or not your product is viable. The main metric we're analyzing
+
+206
+00:12:34,138 --> 00:12:37,966
+here is something called ROAs, which stands for return on ad
+
+207
+00:12:37,988 --> 00:12:41,402
+spend. And that's basically just how much revenue you generate
+
+208
+00:12:41,466 --> 00:12:45,566
+on €1. Spend on ads. So if you spend €100 on ads
+
+209
+00:12:45,598 --> 00:12:48,798
+and you've generated €200 revenue, then that's
+
+210
+00:12:48,814 --> 00:12:52,114
+a roas of two. Therefore, it's calculated by dividing your
+
+211
+00:12:52,152 --> 00:12:55,506
+revenue with your ad spend. If we can achieve a roas of
+
+212
+00:12:55,528 --> 00:12:58,590
+above three, then we are really onto something and I
+
+213
+00:12:58,600 --> 00:13:01,320
+would see that as a successful test of your product.
+
+214
+00:13:02,170 --> 00:13:06,278
+I want to make it clear that this is obviously easier said than done,
+
+215
+00:13:06,364 --> 00:13:10,010
+and if you're doing this on your own, you'll likely spend a few months working
+
+216
+00:13:10,080 --> 00:13:13,674
+things out and that's completely fine. That could either be because you
+
+217
+00:13:13,712 --> 00:13:17,354
+can't find the exact winning product you're perhaps struggling with
+
+218
+00:13:17,392 --> 00:13:21,142
+conversion optimization on your Shopify store or your ad creatives
+
+219
+00:13:21,206 --> 00:13:25,022
+are lacking. These are issues I see all the time, and often when people
+
+220
+00:13:25,076 --> 00:13:29,006
+encounter them, they simply quit. But I strongly encourage you to
+
+221
+00:13:29,028 --> 00:13:32,234
+keep going. Take each failed product as a lesson
+
+222
+00:13:32,282 --> 00:13:36,030
+and eventually, if you try hard enough for long enough, you will
+
+223
+00:13:36,100 --> 00:13:39,666
+see results. There's no doubt about it. If you're someone who
+
+224
+00:13:39,688 --> 00:13:43,218
+wants to get started right away from the get go and skip all of
+
+225
+00:13:43,224 --> 00:13:46,546
+the months of trial and error, I've created the solution for
+
+226
+00:13:46,568 --> 00:13:50,006
+you. Scaling with E Comm is an e commerce mentorship course that
+
+227
+00:13:50,028 --> 00:13:53,510
+I've created with some of the best experts in the field.
+
+228
+00:13:53,580 --> 00:13:57,366
+But SWE is not just another course. We are
+
+229
+00:13:57,388 --> 00:14:01,602
+a completely result orientated community that help entrepreneurs
+
+230
+00:14:01,666 --> 00:14:05,850
+build and scale e commerce stores all the way from your first million
+
+231
+00:14:05,920 --> 00:14:09,462
+in revenue to a potential life changing exit.
+
+232
+00:14:09,526 --> 00:14:13,226
+We do this with personalized counseling, including a tailored
+
+233
+00:14:13,258 --> 00:14:16,394
+roadmap just for you, weekly coaching calls
+
+234
+00:14:16,442 --> 00:14:19,518
+with myself as well as the other experts on the team.
+
+235
+00:14:19,604 --> 00:14:23,502
+And contrary to most other courses on the market, SW is
+
+236
+00:14:23,556 --> 00:14:27,186
+built by a team with actual results in the industry. Just to
+
+237
+00:14:27,208 --> 00:14:31,006
+reiterate, I myself personally have done €15 million
+
+238
+00:14:31,038 --> 00:14:34,322
+in revenue across all my ecommerce stores in the past
+
+239
+00:14:34,376 --> 00:14:37,602
+two and a half years. And on top of that, we've got experts
+
+240
+00:14:37,666 --> 00:14:41,110
+in the community with knowledge from over €33
+
+241
+00:14:41,180 --> 00:14:45,014
+million in ad spend. SWE is much more than
+
+242
+00:14:45,052 --> 00:14:48,306
+just a course. While we do have plus 50 step by
+
+243
+00:14:48,348 --> 00:14:51,946
+step modules that will take you from an absolute beginner to a
+
+244
+00:14:51,968 --> 00:14:55,814
+seasoned ecommerce Pro. We also offer you access to my network
+
+245
+00:14:55,862 --> 00:14:58,998
+and resources, including agencies, suppliers,
+
+246
+00:14:59,094 --> 00:15:02,542
+logistics and more. You will have complete access to my team
+
+247
+00:15:02,596 --> 00:15:06,682
+and I. Best of all, we've got an ambitious
+
+248
+00:15:06,746 --> 00:15:10,622
+community of like minded entrepreneurs who share advice and
+
+249
+00:15:10,676 --> 00:15:14,414
+success stories to keep each other motivated. If you think you're a good
+
+250
+00:15:14,452 --> 00:15:17,678
+fit for SWE and want to become a part of the community
+
+251
+00:15:17,764 --> 00:15:21,486
+and learn the ways of ecommerce, well then check out the link below to
+
+252
+00:15:21,508 --> 00:15:22,960
+book a call with us.
+
