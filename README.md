@@ -1,79 +1,66 @@
-YouTube Video Captioning Project
--
+# Video-Caption — Audio/Video → Transcript (.txt)
 
-This project is designed to automate the process of generating captions for YouTube videos by leveraging Assembly AI's API. The program takes MP3 files as input, processes them to generate captions, and outputs SRT files that can be used for video captioning. The entire workflow is organized into pre-caption and post-caption stages.
+**Live demo:** <https://video-caption-shgi.onrender.com>  
+**Code:** this repo
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Project Structure
--
+Small student project that turns `.mp3/.mp4/.wav/.m4a` into a plain-text transcript.  
+The web UI has drag-and-drop upload, a progress bar, an inline media player, and Copy / Download buttons.
 
-main.py: The main script that orchestrates the captioning process.
+**The site may load for around 30 seconds as it's hosted on a free provider.**
 
-pre_caption: A directory where users place their MP3 files to be captioned.
+---
 
-post_caption: A directory where the generated SRT caption files are saved.
+## Features
+- Drag & drop upload (default limit: 25 MB)
+- Inline **audio/video player** to cross-check the transcript
+- One-click **Copy** and **Download .txt**
+- Simple **CLI** for single file or whole folder
+- FastAPI backend + AssemblyAI transcription
+- No secrets in repo (uses `.env` locally and server env vars in production)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-How the Program Works
--
+---
 
-Input Preparation
+## Stack
+Python • FastAPI • AssemblyAI SDK • HTML/CSS/JS
 
-Place your MP3 files in the pre_caption folder.
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Running the Script: 
+## Quickstart (Local)
 
-Execute main.py to start the captioning process.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Caption Generation:
-
-The script loops through all MP3 files in the pre_caption folder.
-For each file, it calls the Assembly AI API to transcribe the audio.
-The transcription result is saved as an SRT file in the post_caption folder.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Skipping Already Captioned Files: 
-
-If an MP3 file has already been captioned, the program will skip it to save time.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Instructions for Running the Program
--
-
-Clone the repository:
-
+1) Clone & enter
+```bash
 git clone https://github.com/Jim6942/Video-Caption.git
+cd Video-Caption
+```
 
-cd Video-Captioning
+2) Python env + deps
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Set up the environment:
+Windows (PowerShell)
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
 
-Ensure you have Python installed.
+macOS / Linux
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Install the required packages:
+3) Environment
+```bash
+cp .env.example .env
+# open .env and paste your AssemblyAI key
+```
 
-pip install assemblyai
+4) Run the site
+```bash
+python -m uvicorn api:app --reload
+# open http://127.0.0.1:8000/
+```
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Place your MP3 files:
+Upload an audio/video file → the transcript appears. The inline player lets you play/pause to verify lines.
 
-Copy your MP3 files into the pre_caption folder.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Run the script:
-
-Execute the main script to start captioning:
-
-python main.py
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Output Summary: 
-
-At the end of the process, the program displays the total number of videos captioned along with their names.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
+--- 
