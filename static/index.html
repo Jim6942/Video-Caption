@@ -1,48 +1,58 @@
 <!doctype html>
 <html>
-
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Audio → Transcript</title>
-    <link rel="stylesheet" href="/static/style.css" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Upload file or paste a URL → get transcript</title>
+  <link rel="stylesheet" href="/static/style.css" />
 </head>
-
 <body>
-    <div class="wrap">
-        <h1 class="title">Upload audio/video → get transcript (.txt)</h1>
-        <p class="subtitle">.mp3 · .mp4 · .wav · .m4a — max 25MB</p>
+  <div class="wrap">
+    <h1 class="title">Upload file or paste a URL → get transcript</h1>
+    <p class="subtitle">.mp3 · .mp4 · .wav · .m4a — max 25MB • TXT or SRT • YouTube supported</p>
 
-        <div class="card">
-            <input id="file" type="file" accept=".mp3,.mp4,.wav,.m4a" hidden />
-            <div id="drop" class="drop">
-                <div class="muted">Drag & drop a file here, or</div>
-                <div class="row">
-                    <button id="pick" class="btn">Choose a file</button>
-                    <span id="filemeta" class="pill muted">No file selected</span>
-                </div>
-                <div class="prog">
-                    <div id="bar" class="bar"></div>
-                </div>
-            </div>
-
-            <div class="player">
-                <video id="vid" controls playsinline class="media hidden"></video>
-                <audio id="aud" controls class="media hidden"></audio>
-            </div>
-
-            <div class="row">
-                <button id="go" class="btn">Transcribe</button>
-                <button id="copy" class="pill" disabled>Copy</button>
-                <button id="dl" class="pill" disabled>Download .txt</button>
-                <span id="status" class="pill muted">Idle</span>
-            </div>
-
-            <textarea id="out" placeholder="Transcript will appear here..."></textarea>
-            <div class="footer">FastAPI • AssemblyAI • student project</div>
+    <div class="card">
+      <!-- File picker / drag-drop -->
+      <input id="file" type="file" accept=".mp3,.mp4,.wav,.m4a" hidden />
+      <div id="drop" class="drop">
+        <div class="muted">Drag & drop a file here, or</div>
+        <div class="row">
+          <button id="pick" class="btn">Choose a file</button>
+          <span id="filemeta" class="pill muted">No file selected</span>
         </div>
-    </div>
-    <script src="/static/app.js"></script>
-</body>
+        <div class="prog"><div id="bar" class="bar"></div></div>
+      </div>
 
+      <!-- URL input -->
+      <div class="row urlrow">
+        <input id="url" class="url" type="url" placeholder="Paste YouTube or direct media URL" />
+        <button id="goUrl" class="btn">Transcribe URL</button>
+        <select id="format" class="select">
+          <option value="txt">TXT</option>
+          <option value="srt">SRT</option>
+        </select>
+      </div>
+
+      <!-- Player: file preview OR YouTube embed -->
+      <div class="player">
+        <iframe id="yt" class="media hidden" title="YouTube preview" frameborder="0"
+          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <video id="vid" controls playsinline class="media hidden"></video>
+        <audio id="aud" controls class="media hidden"></audio>
+      </div>
+
+      <div class="row">
+        <button id="go" class="btn">Transcribe File</button>
+        <button id="copy" class="pill" disabled>Copy</button>
+        <button id="dl" class="pill" disabled>Download</button>
+        <span id="status" class="pill muted">Idle</span>
+      </div>
+
+      <textarea id="out" placeholder="Transcript / .srt will appear here..."></textarea>
+      <div class="footer">FastAPI • AssemblyAI • built by a CS student</div>
+    </div>
+  </div>
+  <script src="/static/app.js"></script>
+</body>
 </html>
